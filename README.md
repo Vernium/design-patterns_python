@@ -9,8 +9,6 @@ I have used Design Patterns in other languages and find them quite useful. Thus 
 3. Describe findings.
 
 ### Notes:
-#### Looking to engage with fellow peers on:
-1. The topic (Please don't just tell me how bad it is. Show me an implementation and it's side effects.)
-2. My implementations and how the could be improved.
+#### Looking to engage with fellow peers on my implementations and improving them.
 
 I take greate interest in the speed of a the program, so if you know anything on improving the speed, feed back would be much appreciated.
