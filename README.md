@@ -7,3 +7,10 @@ I have used Design Patterns in other languages and find them quite useful. Thus 
 1. Create some design patterns with implementions of them.
 2. See how the problem would be done without design patterns.
 3. Describe findings.
+
+### Notes:
+#### Looking to engage with fellow peers on:
+1. The topic (Please don't just tell me how bad it is. Show me an implementation and it's side effects.)
+2. My implementations and how the could be improved.
+
+I take greate interest in the speed of a the program, so if you know anything on improving the speed, feed back would be much appreciated.
